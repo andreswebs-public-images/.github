@@ -11,3 +11,5 @@ The images in this organization are released under [The Unlicense](UNLICENSE.md)
 They are published to the [Amazon ECR Public Gallery](https://gallery.ecr.aws/andreswebs) and can be used as `public.ecr.aws/andreswebs/<image-name>:latest`.
 
 Enjoy!
+
+Andre Silva ([@andreswebs](https://github.com/andreswebs))
