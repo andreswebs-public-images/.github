@@ -6,7 +6,7 @@ These are images that I use regularly for my own work, and I share them here for
 
 They may be buggy or insecure, and I assume no responsability for anyone else's uses, so beware and do your own due dilligence before using them.
 
-The images in this organization are released under [The Unlicense](UNLICENSE.md).
+The images in this organization are released under [The Unlicense](UNLICENSE).
 
 Most of them them are published to the [Amazon ECR Public Gallery](https://gallery.ecr.aws/andreswebs) and can be used as `public.ecr.aws/andreswebs/<image-name>:latest`.
 
