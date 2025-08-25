@@ -8,7 +8,7 @@ They may be buggy or insecure, and I assume no responsability for anyone else's 
 
 The images in this organization are released under [The Unlicense](UNLICENSE).
 
-Most of them are published to the [Amazon ECR Public Gallery](https://gallery.ecr.aws/andreswebs) and can be used as `public.ecr.aws/andreswebs/<image-name>:latest`.
+Most of them are published to Docker Hub and can be used as `docker.io/andreswebs/<image-name>:latest`.
 
 Enjoy!
 
